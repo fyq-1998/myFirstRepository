@@ -23,3 +23,5 @@ D:\BaiduNetdiskDownload\SerialAssistant-master\SerialAssistant-master2\SerialAss
 D:\BaiduNetdiskDownload\SerialAssistant-master\SerialAssistant-master2\SerialAssistant\obj\Debug\SerialAssistant.Form1.resources
 D:\BaiduNetdiskDownload\SerialAssistant-master\SerialAssistant-master2\SerialAssistant\obj\Debug\SerialAssistant.Properties.Resources.resources
 D:\BaiduNetdiskDownload\SerialAssistant-master\SerialAssistant-master2\SerialAssistant\obj\Debug\SerialAssistant.csproj.GenerateResource.Cache
+D:\SerialAssistant-master2\SerialAssistant\obj\Debug\SerialAssistant.exe
+D:\SerialAssistant-master2\SerialAssistant\obj\Debug\SerialAssistant.pdb

@@ -9,7 +9,7 @@ using System.Text.RegularExpressions;
 using System.Windows.Forms;
 
 namespace SerialAssistant
-{
+{//2月29日做的一点修改 也就是添加注释
     public partial class Form1 : Form
     {
         private long receive_count = 0; //接收字节计数
